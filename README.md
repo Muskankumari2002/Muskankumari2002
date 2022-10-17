@@ -48,6 +48,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskankumari2002&" alt="muskankumari2002" /></p>
 -->
 
+[![@muskan_kumari's Holopin board](https://holopin.me/muskan_kumari)](https://holopin.io/@muskan_kumari)
 
 ## Stats 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskankumari2002&layout=compact&theme=highcontrast&hide_border=true)
